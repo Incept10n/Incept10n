@@ -33,7 +33,7 @@ Welcome to my GitHub profile! Nowdays I'm learning to become a better DevOps eng
 
 ### 🌱 I'm currently learning
 
-- More about Kubernetes
+- Prometheus and Grafana
 
 ### 📫 How to reach me
 https://t.me/Incept1onn
